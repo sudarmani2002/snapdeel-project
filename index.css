@@ -1,0 +1,420 @@
+body{
+    background-color: rgb(247,247,247) !important;
+}
+
+/*--top nav--*/
+.a1{
+background-color:rgb(198,0,61);
+height: 30px;
+width: 101%;
+}
+.a3{
+    text-decoration: none;
+    color: white;
+    font-size: 11px;
+    margin-left: 1%;
+}
+.a2{
+    text-decoration: none;
+    color: white;
+    font-size: 11px;
+    margin: 3px;
+    
+
+}
+.a5{
+    display: inline;
+    float: right;
+    margin-right: 5%;
+}
+/*--top nav end--*/
+
+/*--bottom nav top--*/
+.b1{
+    height: 80px;
+}
+.b2{
+    margin-left: 80px;
+    margin-top: 20px;
+    font-weight: 900;
+    font-size: 150px;
+    
+}
+.b3{
+    margin-right: 30%;
+    width: 50%;
+    display: inline;
+    align-items: start;
+    margin-top: 20px;
+    background-color: black;
+    color: black;
+    
+}
+.b4{
+    display: inline;
+    margin-left: 80%;
+    margin-top: -5%;
+    text-decoration: none;
+    color: white;
+}
+.b5{
+    display: inline;
+    margin-right: 5% !important;
+    margin-top: -5%;
+    text-decoration: none;   
+}
+.b6{
+    background-color:#E40046;
+    margin-top: -10px;
+    box-shadow: 0px 0px 5px 0px black;
+   
+}
+.b8{
+    color: white;
+}
+.b9{
+    border-color: black !important;
+    color: white !important;
+}
+.b9:hover{
+    background-color: rgba(255, 255, 255, 0.459) !important;
+}
+.b10{
+    display: inline;
+    background-color:#E40046 !important;
+    border: #E40046 !important;
+}
+.b11{
+    background-color: rgba(0, 0, 0, 0.904) !important;
+    color: rgba(255, 255, 255, 0.438) !important;
+    font-size: 10px;
+    text-align: center;
+}
+.b12:hover{
+    background-color: black !important;
+    width: 100px;
+}
+.b12{
+    color: white !important;
+    font-size: 15px;
+    margin-left: 40px;
+    
+}
+.b13{
+    color: white !important;
+    font-size: 15px;
+    text-align: center !important;
+    background-color: red !important;
+
+}
+
+/*--bottom nav end--*/
+
+/*--map top--*/
+.map{
+    float: right;
+    margin-left: 80%;
+    height: 70px;
+    width: 180px;
+    margin-top: -300px;
+    display: inline;
+    
+}
+.f1{
+   display: inline;
+   margin-left: -900px;
+}
+.f3{
+    height: 60px;
+}
+.f2{
+    margin-top: 30px;
+    text-align: center;
+    background-color: red;
+    margin-left: 40px;
+}
+.f4{
+    margin-left: -45px;
+}
+/*--map end--*/
+
+/*--side box--*/
+.c1{
+    width: 15%;
+    margin-left: 60px;
+    display: inline;
+    border-color: transparent !important;
+    
+}
+.c2{ 
+    background-color: white !important;
+    border: white !important;
+    color: rgba(0, 0, 0, 0.644) !important;
+    font-size: 11px;
+    text-align: center !important;
+  
+
+}
+.c3{
+    color: rgba(0, 0, 0, 0.644) !important;
+    font-size: 11px;
+    border: white !important;
+    text-align: center !important;
+}
+.c4{
+    color: rgba(0, 0, 0, 0.644) !important;
+    font-size: 11px;
+    border: white !important;
+    text-align: justify !important;
+}
+.c5{ 
+    background-color: white !important;
+    border: white !important;
+    color: rgba(0, 0, 0, 0.644) !important;
+    font-size: 11px;
+    text-align: justify !important;
+}
+
+/*--side box end--*/
+
+/*--qr top--*/
+.qr{
+    width: 190px;
+    height: 30%;
+    margin-top: 40px;
+    margin-left: 45px;
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+.qr3{
+    font-size: 10px;
+}
+.qr4{
+    font-size: 10px;
+}
+.qr5{
+   height: 80px;
+   width: 80px;
+}
+
+/*--qr end--*/
+
+/*--cursol--*/
+.d1{
+    width: 980px;
+    height: 300px;
+    display: block;
+    margin-left: 145px;
+    margin-top: -805px;
+}
+.d2{
+    width: 980px;
+    height: 300px;
+}
+
+/*--cursol end--*/
+
+/*--top card top--*/
+.e1{ 
+    height: 250px;
+    width: 150px;
+   
+}
+.e2{
+    margin-top: 20px;
+    margin-left: 240px;
+    background-color: white;
+   
+    
+}
+.e3{
+    margin-left: 55px;
+    margin-top: 30px;   
+}
+.card{
+    display: inline;
+    border-color: transparent !important;
+}
+.card:hover{
+    box-shadow: 0px 0px 10px 0px black;
+}
+.e4{
+   margin-left: -25px;
+}
+/*--top card end--*/
+
+/*--bottom card top--*/
+.k1{ 
+    margin-left: -13px;
+}
+.k2{
+    height: 200px;
+
+}
+.k3{
+    margin-left: 55px;
+    margin-bottom: 40px;
+}
+.k4{
+    margin-top: 55px;
+}
+
+
+/*--bottom card end--*/
+
+/*--bottom paner top--*/
+.g1{
+    height: 300px;
+    width: 400px;
+    margin-top: 50px;
+}
+.g2{
+    
+    height: 55px;
+    width: 100px;
+   
+}
+.g3{
+    
+    height: 150px;
+    width: 100px;
+    
+}
+.g4{
+    text-align: justify;
+    margin-left: 80px;
+    letter-spacing: 1px;
+}
+.g5{
+    margin-right: 40px;
+}
+.g6{
+    margin-top: 55px;
+}
+.g7{
+    background-color: white;
+    margin-top: 50px;
+}
+.g8{
+    height: 250px;
+    width: 240px;
+    margin-top: 50px;
+    margin-left: 63%;
+    margin-top: 1px;
+}
+/*--bottom paner end--*/
+
+/*--grid top--*/
+.h1{
+    height: 60px;
+    width: 50%;
+}
+.f1{
+    font-weight: 10;
+    font-size: 12px;
+    text-align: center;
+    margin-left: 50px;
+    color: #D3B7AC;
+    
+}
+.h2{
+    border: 1px solid rgba(128, 128, 128, 0.63);
+}
+.top{
+    margin-top: 50px;
+    background-color: white;
+}
+/*--grid end--*/
+
+/*--about top--*/
+.j1{
+    text-decoration: none;
+    color: #D3B7AC;
+    font-size: 12px;
+    text-align: justify;
+}
+.j2{
+    margin-left: -80px;
+}
+.j3{
+    text-align: center;
+    margin-left: -60px;
+}
+.j4{
+   width: 160px;
+   background-color: rgb(247,247,247) ;
+   border: transparent;
+
+}
+.j5{
+    margin-left: -7px;
+    margin-top: -4px;
+    height: 30px;
+
+}
+.j6{
+    margin-top: 40px;
+}
+/*--about end--*/
+
+/*--payment top--*/
+.m1{
+    width: 350px;
+}
+.m2{
+    text-align: justify;
+    margin-left: 6px;
+}
+.m3{
+    height: 100px;
+    width: 300px;
+}
+.m4{
+    text-align: justify;
+    margin-left: 65px;
+}
+/*--payment end--*/
+
+/*--bottom about top--*/
+.x1{
+    text-decoration: none;
+    color: rgba(128, 128, 128, 0.658);
+    font-size: 12px;
+}
+b{
+    color: rgba(0, 0, 0, 0.514);
+}
+.x2{
+    text-align: justify;
+    color: rgba(128, 128, 128, 0.658);
+    font-size: 13px;
+}
+.x3{
+    padding: 30px;
+}
+/*--bottom about end--*/
+
+/*--copy top--*/
+.y1{
+    background-color: white;
+    width: 100%;
+}
+.y2{
+   float: left;
+   margin-top: 15px;
+   color: rgba(128, 128, 128, 0.658);
+   font-size: 14px;
+}
+.y3{
+    float: right;
+    margin-top: 15px;
+    color: rgba(128, 128, 128, 0.658);
+    font-size: 14px;
+}
+/*--copy end--*/
+
+/* rigister top*/
+
+/* rigister end */
+
+
